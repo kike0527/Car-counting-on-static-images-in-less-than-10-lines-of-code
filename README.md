@@ -4,6 +4,4 @@ The code uses YOLO_V3 library from cvlib which recognizes some common objects, i
 To use the code you could simply load the jupyter notebook file and follow the steps.
 
 
-*
-The first time you run the code, the model is to be downloaded from the YOLO site.
-*
+*The first time you run the code, the model is to be downloaded from the YOLO site.*
